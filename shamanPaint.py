@@ -3,9 +3,6 @@ import random
 import math
 
 
-# new idea--make it so I can introduce as many points as I want
-# and it will self balance where to fill the points in symmetrically
-
 shadowClones = 10
 
 screenWidth = 1000
